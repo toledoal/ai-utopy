@@ -24,6 +24,10 @@ His work is characterized by:
 ## Contact
 
 For questions, discussions, or collaboration opportunities related to the ideas presented in this book, readers are encouraged to engage through academic and professional networks focused on the intersection of technology, law, and global governance.
+ 
+  - 🔬 [ResearchGate Profile](https://www.researchgate.net/profile/Alejandro-Toledo-Martinez?ev=hdr_xprf)
+  - 💼 [LinkedIn Profile](https://www.linkedin.com/in/alejandro-toledo-a2a67911/)
+  - [Pixelspace](https://pixelspace.com/)
 
 ---
 
