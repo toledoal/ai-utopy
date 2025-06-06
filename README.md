@@ -6,7 +6,7 @@
 
 ## Introduction
 
-Listen to the companion audio notes on [Notebook LM](https://notebooklm.google.com/notebook/8ff43058-fee3-4083-99e2-378fff1c6ab9/audio).
+Listen to the companion audio notes on Spotify by [Notebook LM](https://open.spotify.com/episode/5lcujUKKI5tbs6m4uwUpPz?si=Loh8Cx5sQnCAYLsU84MIAg).
 
 We live in an unprecedented era of global interconnectedness, where local decisions ripple across continents in milliseconds, where cultural diversity demands more nuanced approaches to justice, and where static legal frameworks struggle to address the complexity of 21st-century challenges. This book presents a vision of how Artificial General Intelligence (AGI) can serve as a powerful enabling technology for creating legal systems that are more just, adaptive, and humane while preserving human sovereignty and democratic governance.
 
