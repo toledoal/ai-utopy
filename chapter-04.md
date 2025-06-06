@@ -997,5 +997,5 @@ Readers should understand that:
 
 ---
 
-**Last updated:** December 2024  
+**Last updated:** June 2025  
 **Status:** COMPLETE - Version 1.0 (Theoretical Analysis) 
