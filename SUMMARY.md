@@ -11,6 +11,7 @@
 
 ## Appendices
 
+* [Acknowledgments](acknowledgments.md)
 * [About the Author](about.md)
 * [Glossary](glossary.md)
 * [Bibliography](bibliography.md) 

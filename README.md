@@ -10,6 +10,17 @@ Listen to the companion audio notes on [Notebook LM](https://notebooklm.google.c
 
 We live in an unprecedented era of global interconnectedness, where local decisions ripple across continents in milliseconds, where cultural diversity demands more nuanced approaches to justice, and where static legal frameworks struggle to address the complexity of 21st-century challenges. This book presents a vision of how Artificial General Intelligence (AGI) can serve as a powerful enabling technology for creating legal systems that are more just, adaptive, and humane while preserving human sovereignty and democratic governance.
 
+### A Collaborative Human-AI Effort
+
+This book itself exemplifies the collaborative future it envisions. While the core ideas, research direction, and conceptual framework originate from human thought and experience, this work was developed through an active collaboration with Claude AI. This partnership demonstrates the book's central thesis: that AI can serve as a powerful tool to enhance human intellectual capacity without replacing human agency, creativity, or judgment.
+
+The writing process involved:
+- **Human conceptualization**: All fundamental ideas, arguments, and philosophical positions
+- **AI assistance**: Research synthesis, structural organization, and articulation of complex concepts
+- **Human oversight**: Final review, validation, and approval of all content and conclusions
+
+This collaborative approach allowed for more comprehensive analysis of complex legal, cultural, and technological intersections while maintaining human authorship of all core insights and recommendations. We believe this transparency about our methodology is essential, particularly for a work advocating for human-centered AI collaboration in governance and legal systems.
+
 ## What This Book Offers
 
 This work explores four fundamental aspects of reimagining legal systems for our interconnected world:
