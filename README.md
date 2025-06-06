@@ -21,6 +21,17 @@ The writing process involved:
 
 This collaborative approach allowed for more comprehensive analysis of complex legal, cultural, and technological intersections while maintaining human authorship of all core insights and recommendations. We believe this transparency about our methodology is essential, particularly for a work advocating for human-centered AI collaboration in governance and legal systems.
 
+### Important Methodological Note: Prospective Analysis
+
+**All scenarios, case studies, and implementation examples presented in this book are theoretical and prospective in nature.** No AGI-enabled legal systems have been implemented in reality. The "trials," "results," and "outcomes" discussed throughout the book represent:
+
+- **Analytical modeling** of potential future scenarios
+- **Theoretical projections** based on current research and trends  
+- **Hypothetical case studies** designed to illustrate concepts
+- **Speculative analysis** of possible implementations and their challenges
+
+We present both optimistic scenarios (showing potential benefits) and challenging scenarios (including resistance, conflicts, and implementation failures) to provide balanced analysis. Readers should understand that these represent possible futures rather than accomplished facts, and that actual implementation would face significant political, technical, and cultural challenges not fully captured in theoretical analysis.
+
 ## What This Book Offers
 
 This work explores four fundamental aspects of reimagining legal systems for our interconnected world:
