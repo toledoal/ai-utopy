@@ -1,0 +1,32 @@
+{
+    "name": "creating-new-system-law-future",
+    "version": "1.0.0",
+    "description": "An exploration of how Artificial General Intelligence can enable more dynamic, humane, and effective legal systems for our interconnected world",
+    "main": "README.md",
+    "scripts": {
+        "build": "gitbook build",
+        "serve": "gitbook serve",
+        "install": "gitbook install",
+        "pdf": "gitbook pdf . ./book.pdf"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/username/creating-new-system-law-future.git"
+    },
+    "keywords": [
+        "artificial intelligence",
+        "AGI",
+        "legal systems",
+        "global governance",
+        "distributed power",
+        "law",
+        "technology",
+        "democracy",
+        "justice"
+    ],
+    "author": "Alejandro Toledo",
+    "license": "MIT",
+    "devDependencies": {
+        "gitbook-cli": "^2.3.2"
+    }
+}

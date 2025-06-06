@@ -1,0 +1,25 @@
+# GitBook generated files
+_book/
+.bookignore
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log 
