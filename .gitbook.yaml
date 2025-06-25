@@ -3,9 +3,10 @@ root: ./
 structure:
   readme: README.md
   summary: SUMMARY.md
+  languages: LANGS.md
 
 title: Creating the New System of Law of the Future - A Global System of Law
-description: An exploration of how Artificial General Intelligence can enable more dynamic, humane, and effective legal systems for our interconnected world
+description: An exploration of how Artificial Super Intelligence can enable more dynamic, humane, and effective legal systems for our interconnected world
 
 author:
   name: Alejandro Toledo
