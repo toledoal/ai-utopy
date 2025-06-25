@@ -7,7 +7,7 @@
 Ce livre est disponible en trois éditions complètes :
 
 - 🇺🇸 **[English](https://eladem.gitbook.io/legal-utopy/)** - Version originale avec terminologie ASI
-- 🇪🇸 **[Español](https://eladem.gitbook.io/legal-utopy/es/)** - Traduction complète en espagnol avec terminologie SIA  
+- 🇪🇸 **[Español](https://eladem.gitbook.io/utopia-juridica/)** - Traduction complète en espagnol avec terminologie SIA  
 - 🇫🇷 **Français** - Vous lisez la traduction complète en français avec terminologie SIA
 
 **Auteur**: Alejandro Toledo  

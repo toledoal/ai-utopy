@@ -8,7 +8,7 @@ Este libro está disponible en tres ediciones completas:
 
 - 🇺🇸 **[English](https://eladem.gitbook.io/legal-utopy/)** - Versión original con terminología ASI
 - 🇪🇸 **Español** - Estás leyendo la traducción completa al español con terminología SIA  
-- 🇫🇷 **[Français](https://eladem.gitbook.io/legal-utopy/fr/)** - Traducción completa al francés con terminología SIA
+- 🇫🇷 **[Français](https://eladem.gitbook.io/utopie-juridique/)** - Traducción completa al francés con terminología SIA
 
 **Autor**: Alejandro Toledo  
 **Versión**: 1.0 (Análisis Teórico)  

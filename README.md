@@ -7,8 +7,8 @@
 This book is available in three complete editions:
 
 - 🇺🇸 **English** - Original version with ASI terminology (you are reading it)
-- 🇪🇸 **[Español](https://eladem.gitbook.io/legal-utopy/es/)** - Complete Spanish translation with SIA (Super Inteligencia Artificial) terminology  
-- 🇫🇷 **[Français](https://eladem.gitbook.io/legal-utopy/fr/)** - Complete French translation with SIA (Super Intelligence Artificielle) terminology
+- 🇪🇸 **[Español](https://eladem.gitbook.io/utopia-juridica/)** - Complete Spanish translation with SIA (Super Inteligencia Artificial) terminology  
+- 🇫🇷 **[Français](https://eladem.gitbook.io/utopie-juridique/)** - Complete French translation with SIA (Super Intelligence Artificielle) terminology
 
 Each edition maintains the academic rigor, technical precision, and critical analysis of the original while adapting terminology and cultural references for specific linguistic contexts.
 
@@ -116,7 +116,7 @@ The future of law lies not in choosing between human wisdom and artificial intel
 
 Choose your preferred language edition:
 - 🇺🇸 **English Edition** - You are reading it! [Continue to Chapter 1](chapter-01.md)
-- 🇪🇸 **[Comenzar con Edición en Español](https://eladem.gitbook.io/legal-utopy/es/)**
-- 🇫🇷 **[Commencer avec l'Édition Française](https://eladem.gitbook.io/legal-utopy/fr/)**
+- 🇪🇸 **[Comenzar con Edición en Español](https://eladem.gitbook.io/utopia-juridica/)**
+- 🇫🇷 **[Commencer avec l'Édition Française](https://eladem.gitbook.io/utopie-juridique/)**
 
 Or explore specific chapters directly from the [Table of Contents](SUMMARY.md). 
