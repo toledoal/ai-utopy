@@ -1,14 +1,13 @@
 {
-    "title": "Creating the New System of Law of the Future: A Global System of Law",
-    "description": "An exploration of how Artificial Super Intelligence can enable more dynamic, humane, and effective legal systems for our interconnected world",
+    "title": "Creando el Nuevo Sistema Legal del Futuro: Un Sistema Global de Derecho",
+    "description": "Una exploración de cómo la Inteligencia Artificial Súper puede habilitar sistemas legales más dinámicos, humanos y efectivos para nuestro mundo interconectado",
     "author": "Alejandro Toledo",
-    "language": "en",
+    "language": "es",
     "gitbook": ">=3.0.0",
     "root": ".",
     "structure": {
         "readme": "README.md",
-        "summary": "SUMMARY.md",
-        "languages": "LANGS.md"
+        "summary": "SUMMARY.md"
     },
     "plugins": [
         "katex",
@@ -27,11 +26,14 @@
             "cutWordLib": "nodejieba",
             "defineWord": [
                 "ASI",
-                "AI",
+                "IA",
                 "API",
                 "JSON",
                 "XML",
-                "HTTP"
+                "HTTP",
+                "derecho",
+                "legal",
+                "inteligencia artificial"
             ]
         },
         "mermaid-gb3": {
