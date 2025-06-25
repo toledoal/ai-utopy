@@ -1,6 +1,6 @@
 {
     "title": "Créer le Nouveau Système Juridique du Futur : Un Système Mondial de Droit",
-    "description": "Une exploration de la façon dont l'Intelligence Artificielle Super peut permettre des systèmes juridiques plus dynamiques, humains et efficaces pour notre monde interconnecté",
+    "description": "Une exploration de la façon dont la Super Intelligence Artificielle peut permettre des systèmes juridiques plus dynamiques, humains et efficaces pour notre monde interconnecté",
     "author": "Alejandro Toledo",
     "language": "fr",
     "gitbook": ">=3.0.0",
@@ -25,7 +25,7 @@
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord": [
-                "ASI",
+                "SIA",
                 "IA",
                 "API",
                 "JSON",
@@ -33,7 +33,7 @@
                 "HTTP",
                 "droit",
                 "juridique",
-                "intelligence artificielle"
+                "super intelligence artificielle"
             ]
         },
         "mermaid-gb3": {

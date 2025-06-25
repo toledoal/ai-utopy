@@ -1,11 +1,19 @@
 # Creando el Nuevo Sistema Legal del Futuro: Un Sistema Global de Derecho
 
-> **Subtítulo**: Cómo la Inteligencia Artificial Súper puede habilitar sistemas legales más dinámicos, humanos y efectivos para nuestro mundo interconectado
+> **Subtítulo**: Cómo la Super Inteligencia Artificial puede habilitar sistemas legales más dinámicos, humanos y efectivos para nuestro mundo interconectado
+
+## 🌍 Ediciones Multi-Idioma Disponibles
+
+Este libro está disponible en tres ediciones completas:
+
+- 🇺🇸 **[English](https://eladem.gitbook.io/legal-utopy/)** - Versión original con terminología ASI
+- 🇪🇸 **Español** - Estás leyendo la traducción completa al español con terminología SIA  
+- 🇫🇷 **[Français](https://eladem.gitbook.io/legal-utopy/fr/)** - Traducción completa al francés con terminología SIA
 
 **Autor**: Alejandro Toledo  
 **Versión**: 1.0 (Análisis Teórico)  
 **Idioma**: Español  
-**Estado**: Completo - En proceso de traducción
+**Estado**: Traducción Completa
 
 ---
 
@@ -42,18 +50,6 @@ Presenta una agenda de investigación práctica para abordar los desafíos ident
 
 ---
 
-## Importante: Aviso de Traducción
-
-**🚨 Esta es la versión en español del libro, actualmente en proceso de traducción.**
-
-- **Estado actual**: Estructura y contenido principal establecidos en inglés
-- **Necesita**: Traducción completa de todos los capítulos al español
-- **Proceso**: Los capítulos se traducirán gradualmente manteniendo la precisión técnica y legal
-
-**Para acceder a la versión completa en inglés**, consulte el directorio `/en/` de este repositorio.
-
----
-
 ## Cómo Usar Este Libro
 
 ### Para Estudiantes de Derecho
@@ -70,24 +66,11 @@ El libro examina cómo preservar la autonomía cultural dentro de marcos de coor
 
 ---
 
-## Estado de Traducción
+## 📖 Comienza a Leer
 
-```
-Progreso de Traducción al Español:
+[Continúa al Capítulo 1: SIA como Habilitadores de Sistemas Legales](chapter-01.md)
 
-README.md: ✅ Completado
-SUMMARY.md: ✅ Completado
-about.md: ⏳ Pendiente
-chapter-01.md: ✅ Completado
-chapter-02.md: ✅ Completado
-chapter-03.md: ✅ Completado
-chapter-04.md: ✅ Completado
-chapter-05.md: ✅ Completado
-conclusion.md: ✅ Completado
-glossary.md: ✅ Completado
-bibliography.md: ⏳ Pendiente
-acknowledgments.md: ⏳ Pendiente
-```
+O explora directamente desde la [Tabla de Contenidos](SUMMARY.md).
 
 ---
 

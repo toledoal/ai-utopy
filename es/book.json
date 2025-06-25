@@ -1,6 +1,6 @@
 {
     "title": "Creando el Nuevo Sistema Legal del Futuro: Un Sistema Global de Derecho",
-    "description": "Una exploración de cómo la Inteligencia Artificial Súper puede habilitar sistemas legales más dinámicos, humanos y efectivos para nuestro mundo interconectado",
+    "description": "Una exploración de cómo la Super Inteligencia Artificial puede habilitar sistemas legales más dinámicos, humanos y efectivos para nuestro mundo interconectado",
     "author": "Alejandro Toledo",
     "language": "es",
     "gitbook": ">=3.0.0",
@@ -25,7 +25,7 @@
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord": [
-                "ASI",
+                "SIA",
                 "IA",
                 "API",
                 "JSON",
@@ -33,7 +33,7 @@
                 "HTTP",
                 "derecho",
                 "legal",
-                "inteligencia artificial"
+                "super inteligencia artificial"
             ]
         },
         "mermaid-gb3": {
