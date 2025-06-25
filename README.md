@@ -44,7 +44,7 @@ We present both optimistic scenarios (showing potential benefits) and challengin
 
 ## What This Book Offers
 
-This work explores four fundamental aspects of reimagining legal systems for our interconnected world:
+This work explores five fundamental aspects of reimagining legal systems for our interconnected world:
 
 ### **Chapter 1: ASI as Legal System Enablers**
 An exploration of how ASI can enhance rather than replace human legal judgment, enabling unprecedented analysis of complex social factors while keeping humans firmly in control of legal decision-making.
@@ -57,6 +57,9 @@ A framework for distributing decision-making authority across networks while mai
 
 ### **Chapter 4: ASI as Enabler for Human System of Law**
 A comprehensive synthesis presenting practical vision of how ASI can enable the creation of legal systems that are more just, adaptive, culturally sensitive, and effective while preserving human agency and democratic values.
+
+### **Chapter 5: The Fundamental Challenge - Why International Law Fails and the Theoretical Gap**
+A critical "devil's advocate" analysis examining why international law has consistently failed and what theoretical breakthroughs would be required to create effective multinational legal systems. This chapter challenges the optimistic vision presented in earlier chapters and identifies the fundamental research questions that must be addressed.
 
 ## Core Principles
 
